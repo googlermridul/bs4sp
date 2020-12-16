@@ -1,0 +1,22 @@
+{
+  "name": "bs4sp",
+  "version": "1.0.0",
+  "description": "bootstrap 4 starter pack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "googlermridul",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
